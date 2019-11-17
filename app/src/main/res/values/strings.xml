@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Final Exam 07590633</string>
+    <string name="Login_failed">All fields are required</string>
+    <string name="Register_successfully">Register successfully</string>
+</resources>
